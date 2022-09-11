@@ -46,7 +46,7 @@ class Main
 
             }
 
-            System.out.println("\n\noutput matrix:-");
+            System.out.println("\n\noutput matrix:");
             for ( i= 0 ; i < r1 ; i++ )
 
                 for ( j= 0 ; j <c2;j++)
